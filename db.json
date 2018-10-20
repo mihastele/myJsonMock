@@ -23,7 +23,7 @@
             "naziv_albuma": "Doge",
             "id_kategorija": 1,
             "id_user": 1
-        },
+        }
 
     ],
     "kategorija": [
@@ -38,7 +38,7 @@
             "userId": 1,
             "username": "mihastele",
             "password": "feqckm3prmš3af-3ffewofk3ok"
-        },
+        }
 
     ]
     
