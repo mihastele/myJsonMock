@@ -12,7 +12,7 @@
         },
         {
             "id_slika": 3,
-            "ime_slike": "Mamica",
+            "ime_slike": "Lucy",
             "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg"
         }
 
@@ -38,6 +38,21 @@
             "userId": 1,
             "username": "mihastele",
             "password": "feqckm3prmš3af-3ffewofk3ok"
+        },
+        {
+            "userId": 2,
+            "username": "user_nrbibic",
+            "password": "abcdefgh"
+        },
+        {
+            "userId": 3,
+            "username": "user_gpor",
+            "password": "abcd1234"
+        },
+        {
+            "userId": 4,
+            "username": "ok",
+            "password": "afkkfaafk"
         }
 
     ]
