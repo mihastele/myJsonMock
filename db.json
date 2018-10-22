@@ -36,21 +36,29 @@
     "user": [
         {
             "userId": 1,
+            "name": "Miha",
+            "surname": "Stele",
             "username": "mihastele",
             "password": "feqckm3prmš3af-3ffewofk3ok"
         },
         {
             "userId": 2,
+            "name": "Nejc",
+            "surname": "Ribic",
             "username": "user_nrbibic",
             "password": "abcdefgh"
         },
         {
             "userId": 3,
+            "name": "User",
+            "surname": "Gpor",
             "username": "user_gpor",
             "password": "abcd1234"
         },
         {
             "userId": 4,
+            "name": "Ok",
+            "surname": "Afk",
             "username": "ok",
             "password": "afkkfaafk"
         }
