@@ -46,6 +46,7 @@
             "userId": 2,
             "name": "Nejc",
             "surname": "Ribic",
+            "imgref": "https://www.darila4you.com/darila/image/cache/data/Nalepke/nalepka-ribic-1-600x600.jpg",
             "username": "user_nrbibic",
             "password": "abcdefgh"
         },
@@ -53,6 +54,7 @@
             "userId": 3,
             "name": "User",
             "surname": "Gpor",
+            "imgref": "https://www.3pillarglobal.com/wp-content/uploads/2016/03/xwildflyfeatured-300x300.png.pagespeed.ic.zhVGfZt0xY.png",
             "username": "user_gpor",
             "password": "abcd1234"
         },
@@ -60,6 +62,7 @@
             "userId": 4,
             "name": "Ok",
             "surname": "Afk",
+            "imgref": "https://res.cloudinary.com/teepublic/image/private/s--pSYgezKI--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1514018893/production/designs/2212325_0.jpg",
             "username": "ok",
             "password": "afkkfaafk"
         }
