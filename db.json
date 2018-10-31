@@ -17,15 +17,141 @@
           "id_slika": 3,
           "ime_slike": "Lucy",
           "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg"
+        },
+        {
+          "id_album": 1,
+          "id_slika": 4,
+          "ime_slike": "Doge",
+          "referenca": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg"
+        },
+        {
+          "id_album": 1,
+          "id_slika": 5,
+          "ime_slike": "Kralju",
+          "referenca": "https://i.pinimg.com/originals/f1/db/2c/f1db2cddb90fd324cc32cefe1fa066d3.jpg"
+        },
+        {
+          "id_album": 1,
+          "id_slika": 6,
+          "ime_slike": "Lucy",
+          "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg"
+        },
+        {
+          "id_album": 2,
+          "id_slika": 1,
+          "ime_slike": "Doge",
+          "referenca": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg"
+        },
+        {
+          "id_album": 2,
+          "id_slika": 2,
+          "ime_slike": "Kralju",
+          "referenca": "https://i.pinimg.com/originals/f1/db/2c/f1db2cddb90fd324cc32cefe1fa066d3.jpg"
+        },
+        {
+          "id_album": 2,
+          "id_slika": 3,
+          "ime_slike": "Lucy",
+          "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg"
         }
 
     ],
+
+    "albumimgjoin": [
+        {
+          "id_album": 1,
+          "id_slika": 1,
+          "ime_slike": "Doge",
+          "referenca": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg",
+          "naziv_albuma": "Doge",
+          "id_kategorija": 1,
+          "id_user": 1
+        },
+        {
+          "id_album": 1,
+          "id_slika": 2,
+          "ime_slike": "Kralju",
+          "referenca": "https://i.pinimg.com/originals/f1/db/2c/f1db2cddb90fd324cc32cefe1fa066d3.jpg",
+          "naziv_albuma": "Doge",
+          "id_kategorija": 1,
+          "id_user": 1
+        },
+        {
+          "id_album": 1,
+          "id_slika": 3,
+          "ime_slike": "Lucy",
+          "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg",
+          "naziv_albuma": "Doge",
+          "id_kategorija": 1,
+          "id_user": 1
+        },
+        {
+          "id_album": 1,
+          "id_slika": 4,
+          "ime_slike": "Doge",
+          "referenca": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg",
+          "naziv_albuma": "Doge",
+          "id_kategorija": 1,
+          "id_user": 1
+        },
+        {
+          "id_album": 1,
+          "id_slika": 5,
+          "ime_slike": "Kralju",
+          "referenca": "https://i.pinimg.com/originals/f1/db/2c/f1db2cddb90fd324cc32cefe1fa066d3.jpg",
+          "naziv_albuma": "Doge",
+          "id_kategorija": 1,
+          "id_user": 1
+        },
+        {
+          "id_album": 1,
+          "id_slika": 6,
+          "ime_slike": "Lucy",
+          "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg",
+          "naziv_albuma": "Doge",
+          "id_kategorija": 1,
+          "id_user": 1
+        },
+        {
+          "id_album": 2,
+          "id_slika": 1,
+          "ime_slike": "Doge",
+          "referenca": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg"
+        },
+        {
+          "id_album": 2,
+          "id_slika": 2,
+          "ime_slike": "Kralju",
+          "referenca": "https://i.pinimg.com/originals/f1/db/2c/f1db2cddb90fd324cc32cefe1fa066d3.jpg"
+        },
+        {
+          "id_album": 2,
+          "id_slika": 3,
+          "ime_slike": "Lucy",
+          "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg"
+        }
+
+    ],
+
+
     "albums": [
         {
             "id_album": 1,
             "naziv_albuma": "Doge",
             "id_kategorija": 1,
             "id_user": 1
+        },
+        {
+            "id_album": 2,
+            "naziv_albuma": "Čufta",
+            "id_kategorija": 1,
+            "id_user": 1
+        },
+        {
+            "id_album": 3,
+            "naziv_albuma": "Gobarji",
+            "id_kategorija": 2,
+            "id_user": 2
         }
 
     ],
