@@ -1,0 +1,75 @@
+[
+        {
+          "album_id": 1,
+          "id_slika": 1,
+          "ime_slike": "Doge",
+          "referenca": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg",
+          "album_title": "Doge",
+          "category_id": 1,
+          "user_id": 1
+        },
+        {
+          "album_id": 1,
+          "id_slika": 2,
+          "ime_slike": "Kralju",
+          "referenca": "https://i.pinimg.com/originals/f1/db/2c/f1db2cddb90fd324cc32cefe1fa066d3.jpg",
+          "album_title": "Doge",
+          "category_id": 1,
+          "user_id": 1
+        },
+        {
+          "album_id": 1,
+          "id_slika": 3,
+          "ime_slike": "Lucy",
+          "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg",
+          "album_title": "Doge",
+          "category_id": 1,
+          "user_id": 1
+        },
+        {
+          "album_id": 1,
+          "id_slika": 4,
+          "ime_slike": "Doge",
+          "referenca": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg",
+          "album_title": "Doge",
+          "category_id": 1,
+          "user_id": 1
+        },
+        {
+          "album_id": 1,
+          "id_slika": 5,
+          "ime_slike": "Kralju",
+          "referenca": "https://i.pinimg.com/originals/f1/db/2c/f1db2cddb90fd324cc32cefe1fa066d3.jpg",
+          "album_title": "Doge",
+          "category_id": 1,
+          "user_id": 1
+        },
+        {
+          "album_id": 1,
+          "id_slika": 6,
+          "ime_slike": "Lucy",
+          "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg",
+          "album_title": "Doge",
+          "category_id": 1,
+          "user_id": 1
+        },
+        {
+          "album_id": 2,
+          "id_slika": 1,
+          "ime_slike": "Doge",
+          "referenca": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg"
+        },
+        {
+          "album_id": 2,
+          "id_slika": 2,
+          "ime_slike": "Kralju",
+          "referenca": "https://i.pinimg.com/originals/f1/db/2c/f1db2cddb90fd324cc32cefe1fa066d3.jpg"
+        },
+        {
+          "album_id": 2,
+          "id_slika": 3,
+          "ime_slike": "Lucy",
+          "referenca": "http://www.barnorama.com/wp-content/images/2015/06/Olga-Katysheva/04-Olga-Katysheva.jpg"
+        }
+
+    ]
